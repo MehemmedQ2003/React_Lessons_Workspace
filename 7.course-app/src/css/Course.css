@@ -1,0 +1,52 @@
+.course-main{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 20px;
+}
+
+.course{
+    width: 230px;
+    height: 400px;
+    border: 2px solid teal;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.course img{
+    border-radius: 15px;
+    width: 100%;
+}
+
+.card-title{
+    text-align: center;;
+    color: teal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.card-desc{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.course-price{
+    color: red;
+    text-align: end;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.card-shop{
+    text-decoration: none;
+    color: white;
+    background-color: teal;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: bold;
+    margin-top: 50px;
+}

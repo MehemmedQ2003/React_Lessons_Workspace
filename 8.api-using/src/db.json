@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "muhammad11",
+      "name": "Muhammad Gardashov",
+      "postId": 1
+    },
+    {
+      "id": "2",
+      "username": "metin11",
+      "name": "Metin Gardashov",
+      "postId": 1
+    },
+    {
+      "id": "3",
+      "username": "ali11",
+      "name": "Ali Gardashov",
+      "postId": 3
+    },
+    {
+      "id": "4",
+      "username": "azer19",
+      "name": "Azer Nesirov",
+      "postId": 3
+    },
+    {
+      "id": "5",
+      "username": "musa2005",
+      "name": "Musa Budagov",
+      "postId": 1
+    },
+    {
+      "id": "6",
+      "username": "xazar19",
+      "name": "Xazar Nesirov",
+      "postId": 1
+    },
+    {
+      "id": "7",
+      "username": "nihad19",
+      "name": "Nihad Ceferzade",
+      "postId": 3
+    }
+  ]
+}
